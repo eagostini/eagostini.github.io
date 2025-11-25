@@ -14,13 +14,13 @@
                 <p>Right now, I’m building Notta Socket, a real-time platform for developers who are tired of juggling WebSocket servers, pricing surprises, and cryptic error messages. My goal is simple: ship software that scales, makes sense, and doesn’t make developers question all their career decisions at 2 a.m.</p>
             </div>
             <div class="flex items-center gap-x-6 justify-center">
-                <a class="transition-colors hover:text-amber-400" href="mailto:hello@eduardo.ag">
+                <a class="transition-colors hover:text-amber-400" href="mailto:eduardo@nottaboss.co.nz?subject=Knock%20Knock">
                     <svg class="size-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                         <rect x="3" y="5" width="18" height="14" rx="2" />
                         <path d="M3 7l9 6l9-6" />
                     </svg>
                 </a>
-                <a class="transition-colors hover:text-blue-400" href="https://linkedin.com/in/eagostini/">
+                <a class="transition-colors hover:text-blue-400" href="https://linkedin.com/in/eagostini">
                     <svg class="size-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
                         <rect x="4" y="4" width="16" height="16" rx="2" />
                         <path d="M8 11v5" />
