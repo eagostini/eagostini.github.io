@@ -1,7 +1,7 @@
 <template>
     <div class="flex justify-center min-h-dvh p-12 sm:p-16 md:p-20 lg:p-28 xl:p-36 2xl:p-44 relative">
-        <div class="absolute blur-3xl -top-1/6 left-0 h-1/2 w-full md:w-1/2 overflow-hidden">
-            <div class="bg-linear-to-r from-amber-400 to-rose-400 opacity-20 dark:opacity-10 rotate-35 size-full" style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div>
+        <div class="animate-pulse [animation-duration:10s] absolute blur-3xl -top-1/6 left-0 h-1/2 w-full md:w-1/2 overflow-hidden">
+            <div class="bg-linear-to-r from-amber-400 to-rose-400 opacity-20 dark:opacity-20 rotate-35 size-full" style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div>
         </div>
         <div class="flex flex-col gap-y-12 items-center text-center w-2xl z-10">
             <div class="flex flex-col gap-y-4 items-center">
@@ -39,8 +39,8 @@
                 </a>
             </div>
         </div>
-        <div class="absolute blur-3xl bottom-0 right-0 h-1/2 w-full md:w-1/2 overflow-hidden">
-            <div class="bg-linear-to-r from-rose-400 to-blue-400 opacity-30 dark:opacity-10 rotate-[270] size-full" style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div>
+        <div class="animate-pulse [animation-duration:8s] absolute blur-3xl bottom-0 right-0 h-1/2 w-full md:w-1/2 overflow-hidden">
+            <div class="bg-linear-to-r from-rose-400 to-blue-400 opacity-30 dark:opacity-20 rotate-[270] size-full" style="clip-path: polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div>
         </div>
     </div>
 </template>
