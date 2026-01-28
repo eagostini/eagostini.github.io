@@ -6,7 +6,7 @@
         <div class="flex flex-col gap-y-12 items-center text-center w-2xl z-10">
             <div class="flex flex-col gap-y-4 items-center">
                 <h2 class="font-semibold text-zinc-500 dark:text-zinc-400 text-2xl">I'm Eduardo Agostini</h2>
-                <h1 class="font-bold leading-tight text-5xl">Software Engineer, Creator of <a class="underline underline-offset-8 decoration-wavy decoration-amber-400 whitespace-nowrap transition-colors hover:decoration-rose-400" @click.prevent href="#notyet">Notta Socket</a> & CEO @ <a class="underline underline-offset-8 decoration-wavy decoration-amber-400 whitespace-nowrap transition-colors hover:decoration-rose-400" href="https://nottaboss.co.nz" target="_blank">Notta Boss</a></h1>
+                <h1 class="font-bold leading-tight text-5xl">Software Engineer, Creator of <a class="underline underline-offset-8 decoration-wavy decoration-amber-400 whitespace-nowrap transition-colors hover:decoration-rose-400" @click.prevent href="https://nottasocket.com" target="_blank">Notta Socket</a> & CEO @ <a class="underline underline-offset-8 decoration-wavy decoration-amber-400 whitespace-nowrap transition-colors hover:decoration-rose-400" href="https://nottaboss.co.nz" target="_blank">Notta Boss</a></h1>
             </div>
             <div class="flex flex-col gap-y-6 text-zinc-500/90 dark:text-zinc-300/90 leading-loose text-2xl">
                 <p>I’m a software engineer and entrepreneur based in Auckland, New Zealand. I’ve been writing code since I was 14, which is a polite way of saying I’ve been voluntarily wrestling with computers for most of my life.</p>
